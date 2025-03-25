@@ -1,2 +1,1 @@
-🔭 I’m currently working on Mainframes
-🌱 I’m currently learning Git
+I'm a Mainframe Developer and learning Git:) 
